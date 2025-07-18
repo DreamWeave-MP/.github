@@ -1,20 +1,7 @@
-# This document will serve as an initial starting point to explain the goals of this fork and what we aim to accomplish. We will also discuss here what we do *not* want to do, under any circumstances. #
+# DreamWeave-MP is a community of OpenMW contributors and modders whom wish to advance the state of the art in OpenMW.
 
+Originally the scope of the project was to update TES3MP to 0.49, but after six months of dedicated work, the team agreed to abandon this goal in favor of a fresh reimplementation based on OpenMW 0.49, with no descendancy from TES3MP whatsoever. You can find this project in our [sister organization on GitLab](https://gitlab.com/dreamweave-mp).
 
-#  We *would* like to: #
-   * Merge up to and keep some measure of pace with the OpenMW Development branch.
-   * Improve the ease of use and documentation of the existing scripting API, including more example code, simplified functions, and additional helpers to alleviate boilerplate in tes3mp custom scripts.
-   * Where possible, improve the performance and safety of tes3mp itself.
-   * Provide a current and open implementation for the master server.
-   * Make up a new, unique name that is not person-specific, cheeky, hostile, or derivative of any copyrighted work, including OpenMW and tes3mp itself.
-   * If possible, maintain compatibility with our parent project, tes3mp.
-   * Be very explicit that this is a unique fork based on tes3mp. There should not at any point be alterations to the git history or any repository's contents which make the origin of this code ambiguous or otherwise remove attribution from any of tes3mp's contributors or members of the MWMADNESS GitHub team.
-   * 
+The GitHub organization serves as a base through with DreamWeave-MP coordinates with the upstream TES3MP organization, and through which mods and modding tools are delivered. Dreamweave's GitHub organization also serves modlists compatible with OpenMW 0.49 and onward.
 
-# Things we would definitely *not* like to do at any point, ever: #
-  * Engage publicly in any behavior which is outwardly hostile toward the original project
-  * Intentionally break compatibility with either upstream project
-  * Integrate a mechanism through which the server would provide plugin or asset data to clients.
-    This has been discussed and sounds nice but isn't safe or realistic to implement. 
-    We encourage interested admins to provide their own launchers or, preferably, make Wabbajack lists. *currentyearargument*
-  * 
+Please find us online at the [OpenMW discord](https://discord.gg/ayrS6neQrj) for assistance, queries, or contributions.
